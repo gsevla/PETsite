@@ -87,7 +87,7 @@ body, html {
      font-size: .9rem;
      font-weight: 700;
      text-transform: uppercase;
-     color: #0000FF;
+     color: #CD0000;
 }
  #mainNav .navbar-nav > li.nav-item > a.nav-link:hover, #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
      color: #CD0000;
