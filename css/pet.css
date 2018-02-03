@@ -1,7 +1,15 @@
-.bg-pet {
-    background-color: #648C99;
+#pet-logo {
+	width: 75px;
+	height: 75px;
 }
 
-.text-pet {
-	color: rgba(179, 175, 117, 0.7);
+.foto-membros {
+	width: 90px;
+	height: 90px;
 }
+
+.portfolio-img-size {
+	width: 650px;
+	height: 350px;
+}
+
